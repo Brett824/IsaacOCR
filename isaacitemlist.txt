@@ -1,0 +1,145 @@
+<3,15_heart.png
+1UP,11_1up.png
+3 DOLLAR BILL,191_3_dollar_bill.png
+9 VOLT,116_9_volt.png
+ABEL,188_abel.png
+ANKH,161_ankh.png
+THE BATTERY,63_the_battery.png
+THE BELT,28_the_belt.png
+THE BLACK BEAN,180_the_black_bean.png
+BLOOD BAG,119_blood_bag.png
+BLOOD OF THE MARTYR,7_blood_of_the_martyr.png
+BLOODY LUST,157_bloody_lust.png
+BOBS CURSE,140_bobs_curse.png
+BOBBY BOMB,125_bobby_bomb.png
+BOMB BAG,131_bomb_bag.png
+BOOM!,19_boom!.png
+BOX,198_box.png
+BREAKFAST,25_breakfast.png
+BRIMSTONE,118_brimstone.png
+BROTHER BOBBY,8_brother_bobby.png
+BUCKET OF LARD,129_bucket_of_lard.png
+BUM FRIEND,144_bum_friend.png
+CAT-O-NINE TAILS,165_cat_o_nine_tails.png
+THE CELTIC CROSS,162_celtic_cross.png
+CHARM OF THE VAMPIRE,62_charm_of_the_vampire.png
+CHEMICAL PEEL,154_chemical_peel.png
+CHOCOLATE MILK,69_chocolate_milk.png
+THE COMMON COLD,103_the_common_cold.png
+THE COMPASS,21_the_compass.png
+CUBE OF MEAT,73_cube_of_meat.png
+CUPID'S ARROW,48_cupids_arrow.png
+DADDY LONGLEGS,170_daddy_longlegs.png
+DEAD BIRD,117_dead_bird.png
+DEAD CAT,81_dead_cat.png
+DEAD DOVE,185_dead_dove.png
+DEMON BABY,113_demon_baby.png
+DESSERT,24_dessert.png
+DINNER,23_dinner.png
+DISTANT ADMIRATION,57_distant_admiration.png
+A DOLLAR!,18_a_dollar.png
+DR. FETUS,52_dr_fetus.png
+EPIC FETUS,168_epic_fetus.png
+FATE,179_fate.png
+FOREVER ALONE,128_forever_alone.png
+GHOST BABY,163_ghost_baby.png
+GROWTH HORMONES,70_growth_hormones.png
+GUARDIAN ANGEL,112_guardian_angel.png
+GUPPYS HAIR BALL,187_guppys_hairball.png
+GUPPYS HEAD,145_guppys_head.png
+GUPPYS PAW,133_guppys_paw.png
+GUPPYS TAIL,134_guppys_tail.png
+THE HALO,101_the_halo.png
+HALO OF FLIES,10_halo_of_flies.png
+HARLEQUIN BABY,167_harlequin_baby.png
+HOLY GRAIL,184_holy_grail.png
+HOLY WATER,178_holy_water.png
+INFESTATION,148_infestation.png
+INNER EYE,2_the_inner_eye.png
+IPECAC,149_ipecac.png
+JESUS JUICE,197_jesus_juice.png
+THE LADDER,60_the_ladder.png
+LITTLE C.H.A.D.,96_little_chad.png
+LITTLE CHUBBY,88_lil_chubby.png
+LITTLE GISH,99_little_gish.png
+LITTLE STEVE,100_little_steve.png
+LOKI'S HORNS,87_lokis_horns.png
+LORD OF THE PIT,82_lord_of_the_pit.png
+LUCKY FOOT,46_lucky_foot.png
+LUMP OF COAL,132_a_lump_of_coal.png
+LUNCH,22_lunch.png
+MAGIC 8 BALL,194_magic_8_ball.png
+MAGIC MUSHROOM,12_magic_mushroom.png
+MAGNETO,53_magneto.png
+MAX'S HEAD,4_maxs_head.png
+MEAT!,193_meat.png
+MINI MUSH,71_mini_mush.png
+MITRE,173_mitre.png
+MOMS COIN PURSE,195_moms_coin_purse.png
+MOMS CONTACTS,110_moms_contacts.png
+MOMS EYE,55_moms_eye.png
+MOMS HEELS,30_moms_heels.png
+MOMS KNIFE,114_moms_knife.png
+MOMS LIPSTICK,31_moms_lipstick.png
+MOMS PURSE,139_moms_purse.png
+MOMS UNDERWEAR,29_moms_underwear.png
+MONEY = POWER,109_money_equals_power.png
+MR. MEGA,106_mr_mega.png
+MULLIGAN,151_the_mulligan.png
+MUTANT SPIDER,153_mutant_spider.png
+MY REFLECTION,5_my_reflection.png
+NUMBER ONE,6_number_one.png
+HABIT,156_the_habit.png
+ODD MUSHROOM,120_odd_mushroom_thin.png
+OUIJA BOARD,115_ouija_board.png
+THE PACT,80_the_pact.png
+PAGEANT BOY,141_pageant_boy.png
+THE PARASITE,104_the_parasite.png
+THE PEEPER,155_the_peeper.png
+PENTAGRAM,51_pentagram.png
+PHD,75_PHD.png
+POLYPHEMUS,169_polyphemus.png
+PYRO,190_pyro.png
+QUARTER,74_a_quarter.png
+RAINBOW BABY,174_rainbow_baby.png
+RAW LIVER,16_raw_liver.png
+THE RELIC,98_the_relic.png
+ROBO-BABY,95_robo_baby.png
+ROID RAGE,14_roid_rage.png
+ROSARY,72_rosary.png
+ROTTEN MEAT,26_rotten_meat.png
+SACK OF PENNIES,94_sack_of_pennies.png
+SACRED HEART,182_sacred_heart.png
+SACRIFICIAL DAGGER,172_sacraficial_dagger.png
+SAD ONION,1_sad_onion.png
+SCAPULAR,142_scapular.png
+SISTER MAGGY,67_sister_maggy.png
+SKATOLE,9_skatole.png
+SKELETON KEY,17_skeleton_key.png
+THE SMALL ROCK,90_the_small_rock.png
+SMB SUPER FAN!,189_smb_super_fan.png
+SPEED BALL,143_speed_ball.png
+SPELUNKER'S HAT,91_spelunker_hat.png
+SPIDER'S BITE,89_spider_bite.png
+SPIRIT OF THE NIGHT,159_spirit_of_the_night.png
+SPOON BENDER,3_spoon_bender.png
+SQUEEZY,196_squeezy.png
+STEAM SALE,64_steam_sale.png
+STEM CELLS,176_stem_cells.png
+STEVEN,50_steven.png
+STIGMATA,138_stigmata.png
+SUPER BANDAGE,92_super_bandage.png
+TECHNOLOGY,68_technology.png
+TECHNOLOGY 2,152_technology_2.png
+THE MARK,79_the_mark.png
+TOOTHPICKS,183_tooth_picks.png
+TOUGH LOVE,150_tough_love.png
+TRANCENDENCE,20_transcendence.png
+TREASURE MAP,54_treasure_map.png
+THE VIRUS,13_the_virus.png
+THE WAFER,108_the_wafer.png
+WHORE OF BABYLON,122_whore_of_babylon.png
+WIGGLE WORM,59_wiggle_worm.png
+WIRE COAT HANGER!,32_wire_coat_hanger.png
+WOODEN SPOON,27_wooden_spoon.png
+X-RAY VISION,76_xray_vision.png
