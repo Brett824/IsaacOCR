@@ -33,7 +33,7 @@ public class ImageSaver extends Thread
     	f.getContentPane().printAll(g);
     	
     	try {
-    		FTPConfig config = FTPConfig.LoadConfig(); //shouldnt have to load config every time, figureo ut best way
+    		FTPConfig config = FTPConfig.getConfig();
 			ImageIO.write(img,"png", new File("items.png"));
 			FTPClient ftp = new FTPClient();
 			ftp.connect(config.getServer());

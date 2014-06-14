@@ -2,6 +2,7 @@ package brett824.isaacocr;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
@@ -11,9 +12,10 @@ public class FTPConfig {
 	private String dir;
 	private String user;
 	private String pass;
+	private static FTPConfig instance = null;
 	
 	
-	public FTPConfig(String server, String dir, String user, String pass){
+	protected FTPConfig(String server, String dir, String user, String pass){
 		
 		this.server = server;
 		this.dir = dir;
@@ -22,19 +24,36 @@ public class FTPConfig {
 		
 	}
 	
-	public static FTPConfig LoadConfig() throws IOException{
+	public static FTPConfig LoadConfig() {
 		
-		BufferedReader br = new BufferedReader(new FileReader(new File("ftpconfig.txt")));
-		//first four lines, in order, are what we're using
-		//should probably use YAML
-		String server = br.readLine();
-		String dir = br.readLine();
-		String user = br.readLine();
-		String pass = br.readLine();		
-		
-		br.close();
+		BufferedReader br;
+		String server, dir, user, pass = null;
+		try {
+			br = new BufferedReader(new FileReader(new File("ftpconfig.txt")));
+			//first four lines, in order, are what we're using
+			//should probably use YAML
+			server = br.readLine();
+			dir = br.readLine();
+			user = br.readLine();
+			pass = br.readLine();		
+			
+			br.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+			return null;
+		}
 		
 		return new FTPConfig(server, dir, user, pass);
+		
+	}
+	
+	public static FTPConfig getConfig(){
+		
+		if(instance == null){
+			instance = LoadConfig();
+		}
+		
+		return instance;
 		
 	}
 	

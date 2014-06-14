@@ -34,3 +34,18 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+*.fatjar
+*.project
+.settings/org.eclipse.jdt.core.prefs
+compass.png
+ftpconfig.txt
+items.png
+lib/nblibraries.properties
+eurotext.tif
+lib/pdfpagecount.ps
+m=p.png
+mutant.png
+outfile.txt
+test - Copy.bmp
+test.bmp
